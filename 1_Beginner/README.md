@@ -6,4 +6,4 @@
 - [Day 4 - Beginner - Randomisation and Python Lists](4/notes.py)
 - [Day 5 - Beginner - Python Loops](5/notes.py)
 - [Day 6 - Beginner - Python Functions & Karel](6/notes.py)
-- [Day 7 - Beginner - Hangman](https://github.com/eyasir329/python-projects/hangman)
+- [Day 7 - Beginner - Hangman](https://github.com/eyasir329/python-projects/blob/main/hangman/hangman.py)
